@@ -1,4 +1,5 @@
 # apna-college
 this is my first repo
 <br>
-author- syed waqas ahmed
+author- syed waqas khan
+this is the new project of mine 
